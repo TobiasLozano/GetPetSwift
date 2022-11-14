@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Get pet swift</title>
+    <link rel="stylesheet" href="styles/styles.css">
+</head>
+<body>
+    
+    <div class="container">
+        <div class="titulo">
+            <h1 onmouseover="textContent='Get Pet Swift'" onmouseout="textContent='G.P.S.'" >G.P.S.</h1>
+        </div>
+        <div class="datos">
+        <p>Ubicacion de mascota</p>
+            <p>Longitud: <span id="long">Sin datos</span></p>
+            <p>Latitudd: <span id="lat">Sin datos</span></p>
+            <p>Hora del ultimo registro <span class="hora"  id="hora">Sin datos</span></p>
+            <p>Hora actual:  <span class="horaActual" id="ahora">Sin datos</span></p> 
+
+            <button class="boton" id="boton">Consultar ubicacion</button>
+        </div>
+        
+    </div>
+	<div id="map"></div>
+
+    <script src="src/main.js"></script>
+
+</body>
+</html>

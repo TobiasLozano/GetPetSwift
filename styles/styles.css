@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}body{
+    background: rgb(207, 255, 211);
+    color: rgb(0, 0, 0);
+    -webkit-text-stroke: .4px rgb(0, 0, 0);
+    background-image: url(https://www.digitaltrends.com/wp-content/uploads/2019/08/pet-tracker-feaqture-image.jpg?p=1);
+    backdrop-filter: blur(1000px);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    font-weight: 900;
+}
+h1{
+    text-align: center;
+    font-size: 4rem;
+   
+ }
+p{  
+    text-align: center;
+    font-weight: bolder;
+    margin: .5rem;
+    font-size: 1.5rem;
+
+}
+span{
+    font-weight: 200;
+}
+button{
+    margin: 2rem auto;
+    padding: 1rem;
+    font-size: 1.5rem;
+    font-weight: bold;
+    border-radius: 30% 30% 30% 30%;
+    -webkit-border-radius: 30% 30% 30% 30%;
+    -moz-border-radius: 30% 30% 30% 30%;
+    -ms-border-radius: 30% 30% 30% 30%;
+    -o-border-radius: 30% 30% 30% 30%;
+    cursor: pointer;
+    border: none;
+    background-color: rgb(243, 243, 243);
+}
+button:hover{
+    background-color: rgb(182, 182, 182);
+}
+.datos{
+    display: flex;
+    flex-direction: column;
+}
+.container{
+    padding: 2rem;
+    width: 50%;
+    margin:auto;
+    min-width: 300px;
+    margin-top: 10vh;
+    background: rgba(216, 216, 216, 0.685);
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.671);
+backdrop-filter: blur(1px);
+-webkit-backdrop-filter: blur(1px);
+border: 1px solid rgba(216, 216, 216, 0.22);
+
+
+}
