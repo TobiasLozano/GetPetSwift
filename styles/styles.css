@@ -7,7 +7,6 @@
     color: rgb(0, 0, 0);
     -webkit-text-stroke: .4px rgb(0, 0, 0);
     background-image: url(https://www.digitaltrends.com/wp-content/uploads/2019/08/pet-tracker-feaqture-image.jpg?p=1);
-    backdrop-filter: blur(1000px);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
