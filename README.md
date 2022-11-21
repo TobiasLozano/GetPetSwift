@@ -2,7 +2,7 @@
 Este proyecto está dividido en 2 partes, el dispositivo GPS y la pagina que muestra la informacion.
 
 # Dispositivo GPS
-Funciona gracias al microcontrolador ESP-32, fue programado en C++
+Funciona gracias al microcontrolador ESP-32, fue programado en C++.
 Librerias usadas:
 
 ### `TinyGPS`
