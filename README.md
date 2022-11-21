@@ -20,7 +20,7 @@ De esta forma, se obtienen los datos tomados por un sensor y se envían a una ba
 
 
 # Pagina web:
-La url de esta, es:
+La url del sitio web  es:
 https://getpetswift.netlify.app/
 
 Es la interfaz del usuario final, se encarga de traer los datos de la base de datos para mostrar las coordenadas tomadas junto con un mapa que ubique las mismas.
