@@ -9,6 +9,8 @@ Librerias usadas:
 ### `WifiClientSecure`
 ### `HTTPClient`
 
+(ver código: https://github.com/TobiasLozano/GetPetSwift/tree/main/Codigo-GPS )
+
 De esta forma, se obtienen los datos tomados por un sensor y se envían a una base de datos.
 
 # Pagina web:
