@@ -1,6 +1,8 @@
 # GetPetSwift 
 Este proyecto está dividido en 2 partes, el dispositivo GPS y la pagina que muestra la informacion.
 
+
+
 # Dispositivo GPS
 Funciona gracias al microcontrolador ESP-32, fue programado en C++.
 Librerias usadas:
@@ -9,9 +11,13 @@ Librerias usadas:
 ### `WifiClientSecure`
 ### `HTTPClient`
 
+De esta forma, se obtienen los datos tomados por un sensor y se envían a una base de datos.
+
 (ver código: https://github.com/TobiasLozano/GetPetSwift/tree/main/Codigo-GPS )
 
-De esta forma, se obtienen los datos tomados por un sensor y se envían a una base de datos.
+
+
+
 
 # Pagina web:
 La url de esta, es:
